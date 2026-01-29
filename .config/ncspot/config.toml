@@ -1,0 +1,10 @@
+gapless=true
+flip_status_indicators=true
+shuffle=true
+
+
+
+
+[theme]
+highlight = "black"
+playing_selected = "black"
